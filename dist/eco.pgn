@@ -167,17 +167,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Englund Gambit Declined"]
-[Black "Reversed French"]
-[Result "*"]
-[ECO "A00"]
-
-1. e3 e5 2. d4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "Formation"]
 [Black "Cabbage Attack"]
 [Result "*"]
@@ -662,17 +651,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Indian Defense"]
-[Black "Colle System, King's Indian Variation"]
-[Result "*"]
-[ECO "A00"]
-
-1. e3 d6 2. d4 g6 3. Nf3 Bg7 4. Bd3 Nf6 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "Kádas Opening"]
 [Black "?"]
 [Result "*"]
@@ -932,6 +910,17 @@
 [ECO "A00"]
 
 1. b4 Nf6 2. Bb2 g6 3. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Polish Opening"]
+[Black "King's Indian Variation, Sokolsky Attack"]
+[Result "*"]
+[ECO "A00"]
+
+1. b4 Nf6 2. Bb2 g6 3. c4 Bg7 4. e3 d6 5. Nf3 O-O 6. d4 *
 
 [Event "?"]
 [Site "?"]
@@ -1367,6 +1356,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Van Geet Opening"]
+[Black "Nowokunski Gambit"]
+[Result "*"]
+[ECO "A00"]
+
+1. Nc3 e5 2. f4 exf4 3. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Van Geet Opening"]
 [Black "Pfeiffer Gambit"]
 [Result "*"]
 [ECO "A00"]
@@ -1603,17 +1603,6 @@
 [ECO "A00"]
 
 1. a4 b5 2. axb5 Bb7 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Zukertort Opening"]
-[Black "Reversed Mexican Defense"]
-[Result "*"]
-[ECO "A00"]
-
-1. Nc3 d5 2. Nf3 *
 
 [Event "?"]
 [Site "?"]
@@ -2120,6 +2109,28 @@
 [ECO "A04"]
 
 1. Nf3 g6 2. d4 Bg7 3. e4 d6 4. c4 c5 5. dxc5 Qa5+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zukertort Defense"]
+[Black "Kingside Variation"]
+[Result "*"]
+[ECO "A04"]
+
+1. Nf3 Nh6 2. d4 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zukertort Defense"]
+[Black "Sicilian Knight Variation"]
+[Result "*"]
+[ECO "A04"]
+
+1. Nf3 Na6 2. e4 c5 *
 
 [Event "?"]
 [Site "?"]
@@ -2632,6 +2643,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Zukertort Opening"]
+[Black "Reversed Mexican Defense"]
+[Result "*"]
+[ECO "A06"]
+
+1. Nf3 d5 2. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Zukertort Opening"]
 [Black "Santasiere's Folly"]
 [Result "*"]
 [ECO "A06"]
@@ -2659,17 +2681,6 @@
 [ECO "A06"]
 
 1. Nf3 d5 2. a4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "English Opening"]
-[Black "Anglo-Indian Defense, Grünfeld Formation"]
-[Result "*"]
-[ECO "A07"]
-
-1. g3 d5 2. Nf3 g6 3. c4 Nf6 *
 
 [Event "?"]
 [Site "?"]
@@ -2906,23 +2917,23 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Dutch Defense"]
-[Black "Krause Variation"]
-[Result "*"]
-[ECO "A10"]
-
-1. c4 f5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 d6 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "English Opening"]
 [Black "?"]
 [Result "*"]
 [ECO "A10"]
 
 1. c4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "English Opening"]
+[Black "Achilles-Omega Gambit"]
+[Result "*"]
+[ECO "A10"]
+
+1. c4 Nf6 2. e4 *
 
 [Event "?"]
 [Site "?"]
@@ -3110,39 +3121,6 @@
 [ECO "A10"]
 
 1. c4 g5 2. d4 e5 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "King's Indian Defense"]
-[Black "Semi-Classical Variation, Exchange Variation"]
-[Result "*"]
-[ECO "A10"]
-
-1. c4 g6 2. Nc3 Bg7 3. e3 Nf6 4. d4 O-O 5. Nf3 d6 6. Be2 Nbd7 7. O-O e5 8. dxe5 dxe5 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Modern Defense"]
-[Black "Averbakh Variation, Pseudo-Sämisch"]
-[Result "*"]
-[ECO "A10"]
-
-1. c4 g6 2. e4 Bg7 3. d4 d6 4. Be3 Nf6 5. f3 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Modern Defense"]
-[Black "Neo-Modern Defense"]
-[Result "*"]
-[ECO "A10"]
-
-1. c4 g6 2. e4 Bg7 3. d4 e5 *
 
 [Event "?"]
 [Site "?"]
@@ -3401,17 +3379,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Horwitz Defense"]
-[Black "Zilbermints Gambit"]
-[Result "*"]
-[ECO "A13"]
-
-1. c4 e6 2. d4 e5 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "English Opening"]
 [Black "Agincourt Defense, Keres Defense"]
 [Result "*"]
@@ -3462,6 +3429,17 @@
 [ECO "A15"]
 
 1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "English Opening"]
+[Black "Anglo-Indian Defense, Grünfeld Formation"]
+[Result "*"]
+[ECO "A15"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 d5 *
 
 [Event "?"]
 [Site "?"]
@@ -3583,17 +3561,6 @@
 [ECO "A15"]
 
 1. c4 Nf6 2. b4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Polish Opening"]
-[Black "King's Indian Variation, Sokolsky Attack"]
-[Result "*"]
-[ECO "A15"]
-
-1. Nf3 Nf6 2. c4 g6 3. b4 Bg7 4. Bb2 O-O 5. e3 d6 6. d4 *
 
 [Event "?"]
 [Site "?"]
@@ -4821,6 +4788,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Englund Gambit Declined"]
+[Black "Reversed French"]
+[Result "*"]
+[ECO "A40"]
+
+1. d4 e5 2. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Englund Gambit Declined"]
 [Black "Reversed Krebs"]
 [Result "*"]
 [ECO "A40"]
@@ -4848,6 +4826,17 @@
 [ECO "A40"]
 
 1. d4 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Horwitz Defense"]
+[Black "Zilbermints Gambit"]
+[Result "*"]
+[ECO "A40"]
+
+1. d4 e6 2. c4 e5 *
 
 [Event "?"]
 [Site "?"]
@@ -5073,45 +5062,12 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Queen's Pawn Game"]
-[Black "Englund Gambit"]
-[Result "*"]
-[ECO "A40"]
-
-1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 f6 5. exf6 Nxf6 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Queen's Pawn Game"]
-[Black "London System, Pterodactyl Variation"]
-[Result "*"]
-[ECO "A40"]
-
-1. d4 g6 2. Nf3 Bg7 3. Bf4 c5 4. c3 cxd4 5. cxd4 Qa5+ *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "Slav Indian"]
 [Black "Kudischewitsch Gambit"]
 [Result "*"]
 [ECO "A40"]
 
 1. d4 c6 2. Nf3 Nf6 3. c4 b5 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "St. George Defense"]
-[Black "Polish Variation"]
-[Result "*"]
-[ECO "A40"]
-
-1. d4 b5 2. e4 a6 3. Nf3 Bb7 4. Bd3 e6 *
 
 [Event "?"]
 [Site "?"]
@@ -5128,17 +5084,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Zukertort Defense"]
-[Black "Kingside Variation"]
-[Result "*"]
-[ECO "A40"]
-
-1. d4 g6 2. Nf3 Nh6 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "English Rat"]
 [Black "Pounds Gambit"]
 [Result "*"]
@@ -5150,23 +5095,23 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "King's Pawn Game"]
-[Black "Maróczy Defense"]
-[Result "*"]
-[ECO "A41"]
-
-1. d4 d6 2. e4 e5 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "Modern Defense"]
 [Black "?"]
 [Result "*"]
 [ECO "A41"]
 
 1. d4 g6 2. c4 Bg7 3. Nc3 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modern Defense"]
+[Black "Neo-Modern Defense"]
+[Result "*"]
+[ECO "A41"]
+
+1. d4 g6 2. c4 Bg7 3. e4 e5 *
 
 [Event "?"]
 [Site "?"]
@@ -5255,6 +5200,17 @@
 [ECO "A42"]
 
 1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Modern Defense"]
+[Black "Averbakh Variation, Pseudo-Sämisch"]
+[Result "*"]
+[ECO "A42"]
+
+1. d4 g6 2. c4 Bg7 3. e4 d6 4. Be3 Nf6 5. f3 *
 
 [Event "?"]
 [Site "?"]
@@ -5552,28 +5508,6 @@
 [ECO "A45"]
 
 1. d4 Nf6 2. Nc3 d5 3. Qd3 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Blackmar-Diemer Gambit Declined"]
-[Black "O'Kelly Defense"]
-[Result "*"]
-[ECO "A45"]
-
-1. d4 Nf6 2. f3 d5 3. e4 dxe4 4. Nc3 c6 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Blackmar-Diemer Gambit Declined"]
-[Black "Weinsbach Declination"]
-[Result "*"]
-[ECO "A45"]
-
-1. d4 Nf6 2. Nc3 d5 3. f3 e6 4. e4 dxe4 *
 
 [Event "?"]
 [Site "?"]
@@ -5997,17 +5931,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Old Indian Defense"]
-[Black "Tartakower-Indian"]
-[Result "*"]
-[ECO "A46"]
-
-1. d4 Nf6 2. Nf3 d6 3. c4 Bg4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "Queen's Pawn Game"]
 [Black "Torre Attack, Breyer Variation"]
 [Result "*"]
@@ -6140,6 +6063,17 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
+[White "Indian Defense"]
+[Black "Colle System, King's Indian Variation"]
+[Result "*"]
+[ECO "A48"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Bd3 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
 [White "London System"]
 [Black "?"]
 [Result "*"]
@@ -6201,17 +6135,6 @@
 [ECO "A49"]
 
 1. d4 Nf6 2. Nf3 g6 3. g3 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "King's Indian Defense"]
-[Black "Fianchetto Variation, Benjamin Defense"]
-[Result "*"]
-[ECO "A49"]
-
-1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 Qb6 *
 
 [Event "?"]
 [Site "?"]
@@ -6498,6 +6421,17 @@
 [ECO "A54"]
 
 1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. e3 Nbd7 5. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Old Indian Defense"]
+[Black "Tartakower-Indian"]
+[Result "*"]
+[ECO "A54"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 Bg4 *
 
 [Event "?"]
 [Site "?"]
@@ -7174,17 +7108,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Blackmar-Diemer Gambit"]
-[Black "Netherlands Variation"]
-[Result "*"]
-[ECO "A80"]
-
-1. d4 f5 2. Nc3 d5 3. e4 dxe4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "Dutch Defense"]
 [Black "?"]
 [Result "*"]
@@ -7571,6 +7494,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Dutch Defense"]
+[Black "Bellon Gambit"]
+[Result "*"]
+[ECO "A84"]
+
+1. d4 f5 2. c4 e6 3. e4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch Defense"]
 [Black "Bladel Variation"]
 [Result "*"]
 [ECO "A84"]
@@ -7593,6 +7527,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Dutch Defense"]
+[Black "Krause Variation"]
+[Result "*"]
+[ECO "A84"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 d6 4. Nf3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Dutch Defense"]
 [Black "Normal Variation"]
 [Result "*"]
 [ECO "A84"]
@@ -7608,18 +7553,7 @@
 [Result "*"]
 [ECO "A84"]
 
-1. d4 e6 2. c4 f5 3. Nc3 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Horwitz Defense"]
-[Black "Dutch Defense, Bellon Gambit"]
-[Result "*"]
-[ECO "A84"]
-
-1. d4 e6 2. c4 f5 3. e4 *
+1. d4 f5 2. c4 e6 3. Nc3 *
 
 [Event "?"]
 [Site "?"]
@@ -8792,6 +8726,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "St. George Defense"]
+[Black "Polish Variation"]
+[Result "*"]
+[ECO "B00"]
+
+1. e4 a6 2. d4 b5 3. Nf3 Bb7 4. Bd3 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "St. George Defense"]
 [Black "San Jorge Variation"]
 [Result "*"]
 [ECO "B00"]
@@ -8841,17 +8786,6 @@
 [ECO "B00"]
 
 1. e4 a5 2. d4 Nc6 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Zukertort Defense"]
-[Black "Sicilian Knight Variation"]
-[Result "*"]
-[ECO "B00"]
-
-1. e4 Na6 2. Nf3 c5 *
 
 [Event "?"]
 [Site "?"]
@@ -9534,28 +9468,6 @@
 [ECO "B02"]
 
 1. e4 Nf6 2. e5 Nd5 3. b3 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "English Opening"]
-[Black "Achilles-Omega Gambit"]
-[Result "*"]
-[ECO "B02"]
-
-1. e4 Nf6 2. c4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "King's Pawn Game"]
-[Black "Clam Variation, Radisch Gambit"]
-[Result "*"]
-[ECO "B02"]
-
-1. e4 Nf6 2. d3 e5 3. f4 Bc5 *
 
 [Event "?"]
 [Site "?"]
@@ -10397,6 +10309,17 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
+[White "King's Pawn Game"]
+[Black "Maróczy Defense"]
+[Result "*"]
+[ECO "B07"]
+
+1. d4 d6 2. e4 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
 [White "Lion Defense"]
 [Black "Anti-Philidor"]
 [Result "*"]
@@ -10458,17 +10381,6 @@
 [ECO "B07"]
 
 1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Be2 Nbd7 5. Nf3 e5 6. O-O Be7 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Pirc Defense"]
-[Black "?"]
-[Result "*"]
-[ECO "B07"]
-
-1. e4 d6 2. d4 Nf6 3. Nc3 *
 
 [Event "?"]
 [Site "?"]
@@ -11531,17 +11443,6 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Caro-Kann Defense"]
-[Black "Finnish Variation"]
-[Result "*"]
-[ECO "B15"]
-
-1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 h6 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Caro-Kann Defense"]
 [Black "Forgacs Variation"]
 [Result "*"]
 [ECO "B15"]
@@ -11624,6 +11525,17 @@
 [ECO "B16"]
 
 1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Caro-Kann Defense"]
+[Black "Finnish Variation"]
+[Result "*"]
+[ECO "B16"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 h6 *
 
 [Event "?"]
 [Site "?"]
@@ -12345,6 +12257,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Sicilian Defense"]
+[Black "Smith-Morra Gambit Declined, Center Formation"]
+[Result "*"]
+[ECO "B21"]
+
+1. e4 c5 2. d4 cxd4 3. c3 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sicilian Defense"]
 [Black "Smith-Morra Gambit Declined, Dubois Variation"]
 [Result "*"]
 [ECO "B21"]
@@ -12515,17 +12438,6 @@
 [ECO "B22"]
 
 1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Na3 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Sicilian Defense"]
-[Black "Smith-Morra Gambit Declined, Center Formation"]
-[Result "*"]
-[ECO "B22"]
-
-1. e4 c5 2. c3 e5 3. d4 cxd4 *
 
 [Event "?"]
 [Site "?"]
@@ -13758,6 +13670,17 @@
 [ECO "B40"]
 
 1. e4 c5 2. Nf3 e6 3. c3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sicilian Defense"]
+[Black "Drazic Variation"]
+[Result "*"]
+[ECO "B40"]
+
+1. e4 c5 2. Nf3 e6 3. d4 a6 *
 
 [Event "?"]
 [Site "?"]
@@ -16260,17 +16183,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Sicilian Defense"]
-[Black "Drazic Variation"]
-[Result "*"]
-[ECO "C00"]
-
-1. e4 e6 2. d4 c5 3. Nf3 a6 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "St. George Defense"]
 [Black "?"]
 [Result "*"]
@@ -17883,6 +17795,17 @@
 [ECO "C20"]
 
 1. e4 e5 2. d3 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's Pawn Game"]
+[Black "Clam Variation, Radisch Gambit"]
+[Result "*"]
+[ECO "C20"]
+
+1. e4 e5 2. d3 Nf6 3. f4 Bc5 *
 
 [Event "?"]
 [Site "?"]
@@ -19759,22 +19682,22 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "King's Gambit Declined"]
-[Black "Zilbermints Double Gambit"]
-[Result "*"]
-[ECO "C30"]
-
-1. e4 e5 2. f4 Nc6 3. Nf3 g5 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "King's Gambit"]
 [Black "Zilbermints Double Countergambit"]
 [Result "*"]
 [ECO "C30"]
 
 1. e4 e5 2. f4 g5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's Gambit Declined"]
+[Black "Zilbermints Double Gambit"]
+[Result "*"]
+[ECO "C30"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 g5 *
 
 [Event "?"]
 [Site "?"]
@@ -20430,6 +20353,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "King's Gambit Accepted"]
+[Black "Mason-Keres Gambit"]
+[Result "*"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's Gambit Accepted"]
 [Black "Orsini Gambit"]
 [Result "*"]
 [ECO "C33"]
@@ -20523,17 +20457,6 @@
 [ECO "C33"]
 
 1. e4 e5 2. f4 exf4 3. Kf2 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Van Geet Opening"]
-[Black "Nowokunski Gambit"]
-[Result "*"]
-[ECO "C33"]
-
-1. e4 e5 2. f4 exf4 3. Nc3 *
 
 [Event "?"]
 [Site "?"]
@@ -28734,7 +28657,7 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Blackmar Gambit"]
+[White "Blackmar-Diemer Gambit"]
 [Black "?"]
 [Result "*"]
 [ECO "D00"]
@@ -28817,6 +28740,28 @@
 [ECO "D00"]
 
 1. d4 Nf6 2. Nc3 d5 3. e4 dxe4 4. f3 e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blackmar-Diemer Gambit Declined"]
+[Black "O'Kelly Defense"]
+[Result "*"]
+[ECO "D00"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blackmar-Diemer Gambit Declined"]
+[Black "Weinsbach Declination"]
+[Result "*"]
+[ECO "D00"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 e6 *
 
 [Event "?"]
 [Site "?"]
@@ -28944,6 +28889,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Blackmar-Diemer Gambit"]
+[Black "Lemberger Countergambit"]
+[Result "*"]
+[ECO "D00"]
+
+1. d4 d5 2. Nc3 Nf6 3. e4 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blackmar-Diemer Gambit"]
 [Black "Lemberger Countergambit, Diemer Attack"]
 [Result "*"]
 [ECO "D00"]
@@ -28993,6 +28949,17 @@
 [ECO "D00"]
 
 1. e4 d5 2. d4 dxe4 3. Nc3 e5 4. Qh5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Blackmar-Diemer Gambit"]
+[Black "Netherlands Variation"]
+[Result "*"]
+[ECO "D00"]
+
+1. d4 f5 2. Nc3 d5 3. e4 dxe4 *
 
 [Event "?"]
 [Site "?"]
@@ -29152,17 +29119,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Blackmar-Diemer, Lemberger Countergambit"]
-[Black "?"]
-[Result "*"]
-[ECO "D00"]
-
-1. d4 d5 2. Nc3 Nf6 3. e4 e5 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "Queen's Pawn Game"]
 [Black "?"]
 [Result "*"]
@@ -29191,6 +29147,17 @@
 [ECO "D00"]
 
 1. d4 d5 2. e3 Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Queen's Pawn Game"]
+[Black "Accelerated London System"]
+[Result "*"]
+[ECO "D00"]
+
+1. d4 d5 2. Bf4 *
 
 [Event "?"]
 [Site "?"]
@@ -29312,17 +29279,6 @@
 [ECO "D00"]
 
 1. d4 d5 2. f4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Queen's Pawn Game"]
-[Black "Mason Variation"]
-[Result "*"]
-[ECO "D00"]
-
-1. d4 d5 2. Bf4 *
 
 [Event "?"]
 [Site "?"]
@@ -29482,17 +29438,6 @@
 [Site "?"]
 [Date "????.??.??"]
 [Round "?"]
-[White "Queen's Gambit Accepted"]
-[Black "Rosenthal Variation"]
-[Result "*"]
-[ECO "D02"]
-
-1. d4 d5 2. Nf3 e6 3. c4 dxc4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
 [White "Queen's Gambit Declined"]
 [Black "Baltic Defense, Pseudo-Slav"]
 [Result "*"]
@@ -29565,6 +29510,17 @@
 [ECO "D02"]
 
 1. d4 d5 2. Nf3 Nf6 3. Bf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Queen's Pawn Game"]
+[Black "London System, Pterodactyl Variation"]
+[Result "*"]
+[ECO "D02"]
+
+1. d4 g6 2. Nf3 Bg7 3. Bf4 c5 4. c3 cxd4 5. cxd4 Qa5+ *
 
 [Event "?"]
 [Site "?"]
@@ -30902,6 +30858,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Queen's Gambit Accepted"]
+[Black "Rosenthal Variation"]
+[Result "*"]
+[ECO "D21"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Queen's Gambit Accepted"]
 [Black "Slav Gambit"]
 [Result "*"]
 [ECO "D21"]
@@ -31881,6 +31848,17 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "Queen's Gambit Declined"]
+[Black "Exchange Variation, Chameleon Variation"]
+[Result "*"]
+[ECO "D35"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Qc2 Re8 9. Nge2 Nf8 10. O-O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Queen's Gambit Declined"]
 [Black "Exchange Variation, Positional Variation"]
 [Result "*"]
 [ECO "D35"]
@@ -31908,17 +31886,6 @@
 [ECO "D35"]
 
 1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. cxd5 exd5 6. Bf4 *
-
-[Event "?"]
-[Site "?"]
-[Date "????.??.??"]
-[Round "?"]
-[White "Queen's Gambit Declined"]
-[Black "Exchange, Chameleon Variation"]
-[Result "*"]
-[ECO "D35"]
-
-1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Qc2 Re8 9. Nge2 Nf8 10. O-O-O *
 
 [Event "?"]
 [Site "?"]
@@ -35271,7 +35238,7 @@
 [White "Nimzo-Indian Defense"]
 [Black "Romanishin Variation"]
 [Result "*"]
-[ECO "E21"]
+[ECO "E20"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 O-O 6. Bg2 *
 
@@ -35282,7 +35249,7 @@
 [White "Nimzo-Indian Defense"]
 [Black "Romanishin Variation, English Hybrid"]
 [Result "*"]
-[ECO "E21"]
+[ECO "E20"]
 
 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 c5 5. g3 cxd4 6. Nxd4 O-O 7. Bg2 d5 8. cxd5 Nxd5 *
 
@@ -36270,11 +36237,33 @@
 [Date "????.??.??"]
 [Round "?"]
 [White "King's Indian Defense"]
+[Black "Fianchetto Variation, Benjamin Defense"]
+[Result "*"]
+[ECO "E61"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c6 7. Nc3 Qb6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's Indian Defense"]
 [Black "Semi-Classical Variation"]
 [Result "*"]
 [ECO "E61"]
 
 1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e3 d6 6. Be2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "King's Indian Defense"]
+[Black "Semi-Classical Variation, Exchange Variation"]
+[Result "*"]
+[ECO "E61"]
+
+1. c4 g6 2. Nc3 Bg7 3. e3 Nf6 4. d4 O-O 5. Nf3 d6 6. Be2 Nbd7 7. O-O e5 8. dxe5 dxe5 *
 
 [Event "?"]
 [Site "?"]
