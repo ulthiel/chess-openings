@@ -14,7 +14,7 @@ except ImportError:
     raise
 
 
-def main(arg, db):
+def main(arg, by_epd, shortest_by_name):
     ret = 0
     prev_eco = ""
     prev_name = ""
@@ -43,6 +43,13 @@ def main(arg, db):
                 ret = 1
                 continue
 
+            if shortest_by_name.get(name, -1) == len(board.move_stack):
+                print(f"::warning file={arg},line={lno}::{name!r} does not have a unique shortest line", file=sys.stderr)
+            try:
+                shortest_by_name[name] = min(shortest_by_name[name], len(board.move_stack))
+            except KeyError:
+                shortest_by_name[name] = len(board.move_stack)
+
             clean_pgn = chess.Board().variation_san(board.move_stack)
             if clean_pgn != pgn:
                 print(f"::warning file={arg},line={lno}::unclean pgn: expected {clean_pgn!r}, got {pgn!r}", file=sys.stderr)
@@ -55,10 +62,10 @@ def main(arg, db):
                     print(f"::warning file={arg},line={lno}::blacklisted word ({blacklisted!r} in {name!r})", file=sys.stderr)
 
             epd = board.epd()
-            if epd in db:
-                print(f"::warning file={arg},line={lno}::duplicate epd: {db[epd]}", file=sys.stderr)
+            if epd in by_epd:
+                print(f"::warning file={arg},line={lno}::duplicate epd: {by_epd[epd]}", file=sys.stderr)
             else:
-                db[epd] = cols
+                by_epd[epd] = cols
 
             if eco < prev_eco:
                 print(f"::warning file={arg},line={lno}::not ordered by eco ({eco} after {prev_eco})", file=sys.stderr)
@@ -79,8 +86,9 @@ if __name__ == "__main__":
 
     print("eco", "name", "pgn", "uci", "epd", sep="\t")
 
-    db = {}
+    by_epd = {}
+    shortest_by_name = {}
     ret = 0
     for arg in sys.argv[1:]:
-        ret = max(ret, main(arg, db))
+        ret = max(ret, main(arg, by_epd, shortest_by_name))
     sys.exit(ret)
